@@ -1,4 +1,3 @@
-
 #include "fuelgauge.h"
 
 FuelGauge::FuelGauge()
