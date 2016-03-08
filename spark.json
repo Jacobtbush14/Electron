@@ -1,0 +1,7 @@
+{
+  "name": "FuelCellLibrary",
+  "author": "UNK",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A simple library that illustrates and implements the use of the fuell gauge for electron"
+}
